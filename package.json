@@ -1,0 +1,25 @@
+{
+  "name": "content-type-ext",
+  "version": "0.0.0",
+  "description": "http header content-type ⇄ file extension",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/beeant/content-type-ext.git"
+  },
+  "keywords": [
+    "content",
+    "type",
+    "file",
+    "extension"
+  ],
+  "author": "beeant",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beeant/content-type-ext/issues"
+  },
+  "homepage": "https://github.com/beeant/content-type-ext"
+}
