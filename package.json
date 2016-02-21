@@ -1,6 +1,6 @@
 {
   "name": "content-type-ext",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "http header content-type ⇄ file extension",
   "main": "index.js",
   "scripts": {
